@@ -1,1 +1,1 @@
-FROM quay.io/k8scsi/csi-node-driver-registrar
+FROM quay.io/cephcsi/cephcsi:v1.2.1
