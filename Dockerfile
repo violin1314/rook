@@ -1,1 +1,1 @@
-FROM rook/ceph:v1.2.1
+FROM quay.io/cephcsi/cephcsi:v1.2.2
