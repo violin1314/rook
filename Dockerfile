@@ -1,1 +1,1 @@
-FROM machines/filestash
+FROM rook/ceph:v1.2.1
