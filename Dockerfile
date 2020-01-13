@@ -1,1 +1,1 @@
-FROM quay.io/k8scsi/csi-provisioner:v1.4.0
+FROM quay.io/k8scsi/csi-snapshotter:v1.2.2
